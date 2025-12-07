@@ -19,9 +19,9 @@ npx playwright install
 
 npx playwright install-deps
 
-**How to Run Tests**
-Run all tests
-npx playwright test
+**How to Run Tests** 
+Run all tests 
+npx playwright test 
 
-Run tests in headed mode
+Run tests in headed mode 
 npx playwright test --headed
